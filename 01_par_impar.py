@@ -1,4 +1,4 @@
-# Juego: Adivina si es par o impar
+# Juego de adivinar si el numero es par o impar
 
 import random
 
