@@ -1,4 +1,4 @@
-# Adivina el número.
+# Adivina el número del 1 al 10
 import random
 
 print("¡ESTE JUEGO ES UNA ADIVINANZA!")
