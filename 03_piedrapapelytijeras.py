@@ -1,3 +1,4 @@
+#Juega piedra, papel y tijera
 import random
 opciones = ["piedra","papel","tijera"]
 
